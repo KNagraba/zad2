@@ -2,3 +2,5 @@
 
 
 Console.WriteLine("Hello, Everybody!");
+
+int[] tbl = {1, 2, 3, 4};
